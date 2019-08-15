@@ -1,2 +1,2 @@
 # Optimized-Mountain
-(No describes exists)
+An optimized version of the mountain shader.
